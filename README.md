@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Hind Abdeslamat</h1>
 <h3 align="center">I'm a passionate **Fullstack Web Developer** from Morocco 🇲🇦 who loves turning ideas into sleek, responsive web applications. I believe in continuous learning, creativity, and building projects that make a real impact.</h3>
 
