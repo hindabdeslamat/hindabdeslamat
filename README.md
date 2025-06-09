@@ -4,6 +4,40 @@
 [ My Portfolio 👋🏼](https://hindabdeslamat.netlify.app/)
 <br> Studying at the Specialized Institute of Applied Technology, Rabat — Diploma in Digital Development with a Full Stack Web option
 <br>👨🏼‍💻 Working as a web developer since 2022 <br>🌍 Passionate about full-stack development and digital innovation <br><i>🌿 Nature enthusiast who finds inspiration in tranquility and creativity</i>
+<section class="contact-intro">
+  <h2>📬 Let's Connect</h2>
+  <p>
+ I'm a passionate full-stack web developer with a strong foundation in both frontend and backend technologies. Currently, I'm seeking entry-level opportunities in backend engineering where I can bring value, grow through real-world experience, and be part of meaningful digital solutions.
+Whether you're hiring, looking for a collaborator, or just love talking code and innovation — I’d be happy to connect!
+
+
+  </p>
+<style>
+  .contact-intro {
+  text-align: center;
+  color: var(--text-color);
+  padding: 4rem 10%;
+  font-size: 1.8rem;
+}
+
+.contact-intro a {
+  color: var(--main-color);
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.contact-intro a:hover {
+  color: #f59feb;
+}
+</style>
+  <p>
+    🔗 <strong>LinkedIn:</strong> 
+    <a href="https://www.linkedin.com/in/abdeslamathind-33b836251/" target="_blank">Visit my LinkedIn</a><br>
+    ✉️ <strong>Email:</strong> 
+    <a href="mailto:hindabdeslamat1@gmail.com">hindabdeslamat1@gmail.com</a>
+  </p>
+</section>
+
 
 
 # 💻 Tech Stack:
