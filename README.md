@@ -1,32 +1,53 @@
 # 👋🏼 Hello World! I'm HIND
 
-💻 I'm a passionate **Full Stack Web Developer** from Morocco, blending creativity with clean, scalable code to build modern digital experiences.
+💻 I'm a **Full Stack Software Engineer** with a strong backend focus, passionate about designing, building, and scaling robust web applications using modern technologies and best engineering practices.
 
-🚀 [Check out my Portfolio](https://hindabdeslamat.netlify.app/)
-
----
-
-### 🎓 About Me
-
-- 📍 Based in Morocco | Studying at the **Specialized Institute of Applied Technology** in Rabat  
-- 📜 Diploma in Digital Development — Full Stack Web Option  
-- 👩‍💻 Web developer since **2022**  
-- 🌍 Passionate about full-stack development, backend engineering & digital innovation  
-- 🌿 Nature enthusiast who finds inspiration in tranquility and creativity  
+🚀 **Portfolio:** [https://hindabdeslamat.netlify.app](https://hindabdeslamat.netlify.app)
 
 ---
 
-### 📬 Let's Connect
+## 🎓 About Me
 
-I'm a passionate full-stack web developer with a strong foundation in both frontend and backend technologies. Currently, I'm seeking entry-level opportunities in backend engineering where I can bring value, grow through real-world experience, and be part of meaningful digital solutions.
-Whether you're hiring, looking for a collaborator, or just love talking code and innovation — I’d be happy to connect!
+- 📍 Based in **Morocco** | Studying at the **Specialized Institute of Applied Technology – Rabat**
+- 📜 Diploma in **Digital Development (Full Stack Web Engineering)**
+- 👩‍💻 Professional experience in web development since **2022**
+- ⚙️ Strong focus on **Backend Engineering, API Design, and System Architecture**
+- 🌍 Experienced in building **scalable, secure, and maintainable applications**
+- 🌿 Inspired by nature, calm environments, and creative problem-solving
 
+---
+
+## 🧠 Engineering Mindset
+
+- ✔️ Write **clean, testable, and maintainable code**
+- ✔️ Design and consume **RESTful APIs**
+- ✔️ Apply **SOLID principles** and clean architecture concepts
+- ✔️ Comfortable with **Agile / Scrum** environments
+- ✔️ Strong understanding of **CI/CD pipelines, containerization, and DevOps basics**
+- ✔️ Quality-driven development using **automated testing and static code analysis**
+
+---
+
+## 💼 What I’m Looking For
+
+I’m currently seeking **junior to entry-level backend or full-stack opportunities** where I can:
+- Contribute to real-world production systems  
+- Strengthen my backend and system design skills  
+- Collaborate with experienced engineering teams  
+- Grow through code reviews, best practices, and continuous learning  
+
+If you're hiring, building something impactful, or simply enjoy technical discussions — I’d love to connect.
+
+---
+
+## 📬 Let’s Connect
 
 <p>
   <a href="https://www.linkedin.com/in/abdeslamathind-33b836251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
 </p>
+
 <p>
   <a href="mailto:hindabdeslamat1@gmail.com">
     <img src="https://img.shields.io/badge/Email-hindabdeslamat1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
