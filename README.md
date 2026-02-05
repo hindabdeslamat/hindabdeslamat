@@ -34,30 +34,58 @@ Whether you're hiring, looking for a collaborator, or just love talking code and
 </p>
 
 ---
-
 ### 💻 Tech Stack
 
+#### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+#### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=blue)
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel&logoColor=red)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=cyan)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=purple)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress&logoColor=blue)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=blue)
+![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge&logo=api&logoColor=green)
 
 ---
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=cyan)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+#### 🔁 Version Control
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=orange)
+
+---
+
+#### 🚀 DevOps / CI-CD
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue)
+![CI/CD](https://img.shields.io/badge/CI/CD-black?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+#### 🧪 Testing & Quality
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=orange)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+
+---
+
+#### 📋 Methodologies & CMS
+![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-black?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress&logoColor=blue)
+
 
 ### 📈 GitHub Activity
 
