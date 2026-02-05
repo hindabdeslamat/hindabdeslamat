@@ -8,7 +8,8 @@
 
 ## 🎓 About Me
 
-- 📍 Based in **Morocco** | Studying at the **Specialized Institute of Applied Technology – Rabat**
+- 📍 Based in **Morocco** | Studied Digital Development at the **Specialized Institute of Applied Technology – Rabat**,  
+  with additional engineering studies at **ENSIAS (National School of Computer Science and Systems Analysis)**
 - 📜 Diploma in **Digital Development (Full Stack Web Engineering)**
 - 👩‍💻 Professional experience in web development since **2022**
 - ⚙️ Strong focus on **Backend Engineering, API Design, and System Architecture**
