@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-- 📍 Based in **Morocco** | Studied Digital Development at the **Specialized Institute of Applied Technology – Rabat**2023,  with formation PHP with JobinTech at **ENSIAS (National School of Computer Science and Systems Analysis)** 2026
+- 📍 Based in **Morocco** | Studied Digital Development at the **Specialized Institute of Applied Technology – Rabat** 2023,  with formation PHP with JobinTech at **ENSIAS (National School of Computer Science and Systems Analysis)** 2026
 - 📜 Diploma in **Digital Development (Full Stack Web Engineering)**
 - 👩‍💻 Professional experience in web development since **2022**
 - ⚙️ Strong focus on **Backend Engineering, API Design, and System Architecture**
